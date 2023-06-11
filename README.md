@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there im Lorenz Hohermuth 👋
+
+* 📊 Software Developer at BSI Business Systems Integration
+* ☕ Main Language Java
 
 <!--
 **LorenzHohermuth/LorenzHohermuth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
