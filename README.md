@@ -1,9 +1,13 @@
-### Hi there im Lorenz Hohermuth 👋
+## Hi there im Lorenz Hohermuth 👋
 
 * 📊 Software Developer at BSI Business Systems Integration
-* ☕ Main Language Java
+* ☕ Professional using Java
+* 🌀 Personal loving Go
 
 <!--
+Stacks that i like 📚
+* 🍵 Go, Bubbletea & Lipgloss
+
 **LorenzHohermuth/LorenzHohermuth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
