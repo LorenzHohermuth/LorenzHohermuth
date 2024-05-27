@@ -3,6 +3,7 @@
 * 📊 Software Developer at BSI Business Systems Integration
 * ☕ Professional using Java
 * 🌀 Personal loving Go
+* 🍵 Self hosted [git](https://git.lorenzzz.dev)
 
 <!--
 Stacks that i like 📚
